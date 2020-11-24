@@ -15,6 +15,7 @@
   </div>
   <div class="footer">
     <router-link to="/admin">Admin</router-link>
+    <a href="https://github.com/jnjensen88/lab4">Github Repo</a>
   </div>
 </div>
 </template>
@@ -62,6 +63,7 @@ body {
 }
 
 .footer a {
+  margin: 1.5rem;
   color: #000;
 }
 
